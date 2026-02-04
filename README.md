@@ -63,10 +63,6 @@
 * **Repository:** [GitHub Repository](YOUR_REPO_URL)
 * **Demo Video https://drive.google.com/file/d/1XLSxDHppABlX2IMaFwdpfCFWLu2doDIW/view?usp=sharing:**
 
-<p align="left">
-  <img src="YOUR_GIF_URL" width="500" />
-</p>
-
 ---
 
 ## 📚 Projects Index
