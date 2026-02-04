@@ -2,7 +2,7 @@
   <img src="YOUR_HEADER_IMAGE_URL" width="800" />
 </p> -->
 
-# 🎮 Game Developer Portfolio
+# Game Developer Portfolio
 
 > 유니티 기반 게임 개발을 중심으로 꾸준한 학습과 실전 경험을 이어가고 있는 게임 클라이언트 개발자입니다. 새로운 기술을 받아들이고, 문제를 구조적으로 해결하며, 프로젝트를 통해 성장하는 과정을 중요하게 생각합니다.
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <!-- 원하는 배지를 여기에 추가하세요 -->
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### 1. **[Signal Zero]**
 
@@ -47,7 +47,7 @@
   <img width="844" height="561" alt="Image" src="https://github.com/user-attachments/assets/e9dd157c-9b14-49fb-b705-4a53630d8150" />
 </p>
 
-#### 📌 Description
+#### Description
 
 시그널 제로는 3D 슈팅 로그라이크 게임입니다.
 플레이어는 자신의 우주선과 그 우주선을 지키는 호위기를 조종해가며 이벤트 사이에 숨어 있는 휴식처 “블루 스팟”으로 넘어가야 합니다.
@@ -58,23 +58,22 @@
 * Unity
 * C#
 
-#### 🔗 Links
+#### Links
 
 * **Repository:** [GitHub Repository](YOUR_REPO_URL)
 * **Demo Video https://drive.google.com/file/d/1XLSxDHppABlX2IMaFwdpfCFWLu2doDIW/view?usp=sharing:**
 
 ---
 
-## 📚 Projects Index
+## Projects Index
 
 * [1. Signal Zero](https://github.com/chungsim/SignalZero)
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-* 게임 개발자 소개 문구를 입력하세요.
-* 관심 분야, 목표 등을 적어 넣으면 좋습니다.
+* 소개 문구
 
 ---
 
