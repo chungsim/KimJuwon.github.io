@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="YOUR_HEADER_IMAGE_URL" width="800" />
-</p>
+</p> -->
 
 # 🎮 Game Developer Portfolio
 
