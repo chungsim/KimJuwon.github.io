@@ -71,10 +71,4 @@
 
 ---
 
-## About Me
-
-* 소개 문구
-
----
-
 Feel free to check out my repositories and contact me for collaboration!
