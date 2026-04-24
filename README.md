@@ -65,9 +65,35 @@
 
 ---
 
+### 1. **[Signal Zero]**
+
+<p align="center">
+  <!-- 썸네일 이미지 URL 넣기 -->
+  <img width="400" height="529" alt="image" src="https://github.com/user-attachments/assets/e794453c-a49b-4a5d-baf8-b13d5c38fe95" />
+
+</p>
+
+#### Description
+체스라인은 방치형 디펜스 게임입니다.
+플레이어는 체스판을 따라 몰려오는 적 기물을 처치하고 획득한 골드를 사용해 더 강한 주사위를 뽑아 더욱 더 강해지는 적을 물리쳐야합니다.
+플레이어는 각 면에 랜덤한 체스 기물이 그려진 6면체 주사위를 뽑고 이를 배치해 더 강하고 더 넓은 공격을 수행할 수 있습니다.
+배치된 주사위는 일정시간마다 주사위 자신의 면을 랜덤하게 선정하여 그 면에 그려진 체스 기물의 이동범위 상의 모든 적에게 공격을 가합니다.
+만약 적이 배치된 주사위를 넘어 체스판의 끝에 다다르면 플레이어는 체력을 잃고 그 체력이 0이 되면 일정시간동안 게임이 정지되며 골드를 벌 수 없게됩니다.  
+
+#### 🛠 Used Technologies
+
+* Unity
+* C#
+
+#### Links
+
+
+---
+
 ## Projects Index
 
 * [1. Signal Zero](https://github.com/chungsim/SignalZero)
+* [2. Chess Line](https://github.com/chungsim/3DClickerGame)
 
 ---
 
